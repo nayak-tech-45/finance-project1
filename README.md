@@ -1,1 +1,2 @@
-# finance-project1
+# finance-project
+#This project is quite intresting
